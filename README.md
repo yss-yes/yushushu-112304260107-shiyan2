@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 机器学习实验：基于 Word2Vec 的情感预测
 
 ## 1. 学生信息
@@ -50,8 +50,7 @@
 ## 5. Kaggle 截图
 
 请在下方插入 Kaggle 提交结果截图，要求能清楚看到分数信息。
-
-![kaggle截图](112304260107_余姝舒_kaggle_score.png)
+![alt text](112304260107_余姝舒_kaggle_score.png)
 
 > 建议将截图保存在 `images` 文件夹中。
 > 截图文件名示例：`2023123456_张三_kaggle_score.png`
@@ -198,6 +197,4 @@ project/
 3. scikit-learn 文档：<https://scikit-learn.org/stable/documentation.html>
 4. Gensim 文档：<https://radimrehurek.com/gensim/>
 
-=======
 # yushushu-112304260107-shiyan2
->>>>>>> c70bac9746a85f66b590c16bc7f30b560b23d1d3
