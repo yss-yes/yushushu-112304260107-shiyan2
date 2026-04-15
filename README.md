@@ -50,9 +50,10 @@
 ## 5. Kaggle 截图
 
 请在下方插入 Kaggle 提交结果截图，要求能清楚看到分数信息。
-![alt text](112304260107_余姝舒_kaggle_score.png)
 
-> 建议将截图保存在 `images` 文件夹中。
+![Kaggle成绩截图](image/112304260107_余姝舒_kaggle_score.png)
+
+> 建议将截图保存在 `image` 文件夹中。
 > 截图文件名示例：`2023123456_张三_kaggle_score.png`
 
 ***
@@ -148,7 +149,7 @@
 - `data/`：存放数据文件
 - `src/`：存放源代码
 - `notebooks/`：存放实验 notebook
-- `images/`：存放 README 中使用的图片
+- `image/`：存放 README 中使用的图片
 - `submission/`：存放提交文件
 
 **我的项目结构：**
@@ -166,7 +167,7 @@ project/
 ├─ src/              # 存放源代码
 │  ├─ train.py      # 训练脚本
 │  └─ predict.py    # 预测脚本
-├─ images/           # 存放 README 中使用的图片
+├─ image/            # 存放 README 中使用的图片
 ├─ submission.csv    # 提交文件
 ├─ README.md         # 实验报告
 └─ requirements.txt  # 依赖库
