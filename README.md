@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 机器学习实验：基于 Word2Vec 的情感预测
 
 ## 1. 学生信息
@@ -197,3 +198,6 @@ project/
 3. scikit-learn 文档：<https://scikit-learn.org/stable/documentation.html>
 4. Gensim 文档：<https://radimrehurek.com/gensim/>
 
+=======
+# yushushu-112304260107-shiyan2
+>>>>>>> c70bac9746a85f66b590c16bc7f30b560b23d1d3
