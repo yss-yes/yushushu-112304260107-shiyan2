@@ -1,0 +1,14 @@
+# Python缓存文件
+__pycache__/
+*.pyc
+
+# 虚拟环境文件夹
+venv/
+
+# 敏感/占位文件
+.env
+
+# 实验超大文件
+data/
+models/
+images/
